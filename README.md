@@ -3,7 +3,7 @@
 Proyecto para la Evaluación Final Transversal de la asignatura Desarrollo Frontend I (PFY2201) en Duoc UC.
 
 - **Estudiante:** Camilo Alarcón
-- **Repositorio:** https://github.com/a2alenca/a2alenca--FRONTEND-I-2
+- **Repositorio:** https://github.com/a2alenca/FRONTEND-I-2
 
 ---
 
