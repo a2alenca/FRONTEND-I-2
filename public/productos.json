@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Far Cry 5",
+    "categoria": "Acción",
+    "precio": 29990,
+    "descripcion": "Bienvenido al condado de Hope, Montana, tierra de los libres y de los valientes. Enfréntate a una secta armada.",
+    "imagen": "img/FarCry5.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Hollow Knight",
+    "categoria": "Aventura",
+    "precio": 12490,
+    "descripcion": "Forja tu propio camino en una aventura épica a través de un vasto reino de insectos y héroes en ruinas.",
+    "imagen": "img/HollowKnight.png"
+  },
+  {
+    "id": 3,
+    "nombre": "MADiSON",
+    "categoria": "Terror",
+    "precio": 19990,
+    "descripcion": "Terror psicológico en primera persona. Tu cámara instantánea es tu única forma de enfrentar lo sobrenatural.",
+    "imagen": "img/Madison.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Stranded Deep",
+    "categoria": "Supervivencia",
+    "precio": 15000,
+    "descripcion": "Sobrevive en medio del océano Pacífico tras un accidente aéreo. Construye, explora y busca recursos.",
+    "imagen": "img/StrandedDeep.png"
+  }
+]

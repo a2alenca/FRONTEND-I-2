@@ -1,0 +1,58 @@
+/* Estilos personalizados (complementan a Bootstrap 5) */
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Compensa la barra de navegación fija al hacer scroll a una sección */
+section {
+  scroll-margin-top: 80px;
+}
+
+/* Portada */
+.hero {
+  background: linear-gradient(135deg, #212529, #0d6efd);
+  color: #fff;
+  padding: 4rem 0;
+}
+
+/* CSS Grid: cuadrícula responsiva para las tarjetas */
+.grid-juegos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+/* Flexbox: barra de filtros */
+.filtros {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+/* Tarjetas */
+.tarjeta-juego {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tarjeta-juego:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.tarjeta-juego .card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+.logo-nav {
+  height: 32px;
+  width: 32px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+/* Margen para que la barra fija no tape el contenido */
+body {
+  padding-top: 56px;
+}
